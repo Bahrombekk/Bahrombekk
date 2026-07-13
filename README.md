@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bahrombek 👋
 
-<!--
-**Bahrombekk/Bahrombekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & Computer Vision enthusiast, focused on building practical skills with Python and modern ML frameworks.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Exploring data science and computer vision through hands-on projects
+- 🌱 Currently learning PyTorch, OpenCV, and core ML libraries (NumPy, Pandas, Matplotlib)
+- 🤝 Contributing to computer vision projects with @UCT-LLC and @computer-vision-uz
+- 💡 Interested in real-world applications like license plate and object detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Languages: Python
+- ML/DS Libraries: NumPy, Pandas, Matplotlib, PyTorch, OpenCV
+- Tools: Jupyter Notebook, Git & GitHub
+
+## 📌 Featured Projects
+- OpenCV - Computer vision projects including license plate and car number detection: https://github.com/Bahrombekk/OpenCV
+- pytorch - Practice notebooks on autograd, classification, and prediction models: https://github.com/Bahrombekk/pytorch
+- Pandas - Data analysis and manipulation exercises: https://github.com/Bahrombekk/Pandas
+- numpy - Numerical computing fundamentals: https://github.com/Bahrombekk/numpy
+
+## 📫 Let's Connect
+Feel free to explore my repositories and reach out if you'd like to collaborate on machine learning or computer vision projects.
