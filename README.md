@@ -1,4 +1,4 @@
-# Hi, I'm Bahrombek 👋
+📊# Hi, I'm Bahrombek 👋
 
 Machine Learning & Computer Vision enthusiast, focused on building practical skills with Python and modern ML frameworks.
 
@@ -21,3 +21,8 @@ Machine Learning & Computer Vision enthusiast, focused on building practical ski
 
 ## 📫 Let's Connect
 Feel free to explore my repositories and reach out if you'd like to collaborate on machine learning or computer vision projects.
+
+## 📊 GitHub Stats
+![Bahrombekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bahrombekk&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahrombekk&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bahrombekk&theme=radical)
